@@ -1,0 +1,80 @@
+LOCUS       KY662380                1539 bp    DNA     linear   PLN 16-APR-2017
+DEFINITION  Paphiopedilum notatisepalum voucher Z.J. Liu 9349 maturase K (matK)
+            gene, complete cds; chloroplast.
+ACCESSION   KY662380
+VERSION     KY662380.1
+KEYWORDS    .
+SOURCE      chloroplast Paphiopedilum notatisepalum
+  ORGANISM  Paphiopedilum notatisepalum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 1539)
+  AUTHORS   Wang,M., Lan,S.-R. and Liu,Z.-J.
+  TITLE     Paphiopedilum notatisepalum, a new species of slipper orchid
+            (Cypripedioideae, Orchidaceae) from China based on morphological
+            and DNA evidence
+  JOURNAL   Phytotaxa 302 (2), 156-164 (2017)
+REFERENCE   2  (bases 1 to 1539)
+  AUTHORS   Wang,M., Lan,S.-R. and Liu,Z.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-FEB-2017) College of Landscape Architecture, Fujian
+            Agriculture and Forestry University, No. 15 Shangxiadian Road,
+            Fuzhou, Fujian 350002, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1539
+                     /organism="Paphiopedilum notatisepalum"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Z.J. Liu 9349"
+                     /db_xref="taxon:1978509"
+     gene            1..1539
+                     /gene="matK"
+     CDS             1..1539
+                     /gene="matK"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="maturase K"
+                     /protein_id="ARH02050.1"
+                     /translation="MYVNGKISGFRQQNFLYPLLFQEYIYSLAHDHNFNSLIFYEPVE
+                     IIGYDNKSSLVLVKRLITQMYQQNFFISSFNDSNKKEFWEYKNFFSSHFSSQMVSEGF
+                     GVILEIPFSSQLVSFSESSEAKKILKYQNLRSIHSIFPFLEDKFLHLNYVSDLLIPHP
+                     IHLEILVQVLQCWIKDVPSLHLLRFLFHEYHNLNSLVTSKKFIYAFSKIKKKFLWFLY
+                     NSYVYECEYLFLFIRKQSSYLRSTSSGVFLERTHFYVKIEHLIVVCCNSFQKILCFLK
+                     DTFMHYVRYQGKAILASKGTLILMNKWKFHLVNFWQSYFHFWSQPYRIHIKQLSNYSF
+                     SFLGYFSSVLENHLVVRNKMLENSFLINIMTHRLYTIVPVMSLIGSLSKAQFCTVLGH
+                     PISKPIWTDLSDSDIIDRFCRICRNLCRYHSGSSKKQVLYRIKYILRLSCARTLARKH
+                     KSTVRTFMRRLGSGLLEEFFMEEEQVLSLIFLQKIPFPLYGSHIDRIWYLDIMHINDL
+                     VDNS"
+ORIGIN      
+        1 atgtacgtaa atggaaaaat ttctggattt cggcaacaaa acttcctata tccgctactc
+       61 tttcaggagt atatttactc acttgctcat gatcataact tcaatagttt gattttttac
+      121 gaacccgtgg aaattattgg ttatgacaat aaatctagtt tagtacttgt gaaacgttta
+      181 attactcaaa tgtatcaaca gaattttttt atttcttcgt ttaatgattc taacaaaaaa
+      241 gaattttggg agtacaagaa ttttttttct tctcattttt cttctcaaat ggtatcagaa
+      301 ggttttggag tcattctgga aattccattc tcgtcgcaat tagtatcttt ttctgaatct
+      361 tctgaagcaa aaaaaatact aaaatatcag aatttacgat ctattcattc aatatttccc
+      421 tttttagagg acaaattttt acatttgaat tatgtgtcag atctactaat acctcatccc
+      481 atacatctgg aaatcttggt tcaagtactt caatgctgga tcaaggatgt tccttctttg
+      541 catttattgc gatttctttt ccacgaatat cataatttga atagtctcgt tacttcaaag
+      601 aaattcattt acgccttttc aaaaataaag aaaaaattcc tttggttcct atataattct
+      661 tatgtatatg aatgcgaata tttattccta tttattcgta aacaatcttc ttatttacga
+      721 tcaacatcct ctggagtctt tcttgagcga acacatttct atgtaaaaat agagcatctt
+      781 atagtagtgt gttgtaattc ttttcagaag atcctatgct ttctcaagga tactttcatg
+      841 cattatgttc gatatcaagg aaaggcaatt ctggcttcaa agggaactct tattctgatg
+      901 aataaatgga aatttcatct tgtgaatttt tggcaatctt attttcactt ttggtctcaa
+      961 ccgtatagga tccatataaa gcaattatcc aactattcct tctcttttct ggggtatttt
+     1021 tcaagtgtac tagaaaatca tttggtagta agaaataaaa tgctagagaa ttcatttcta
+     1081 ataaatatta tgactcatag attatatacc atagtcccag tcatgtctct tattggatca
+     1141 ttgtcgaaag ctcaattttg tactgtattg ggtcatccta ttagtaaacc gatctggacc
+     1201 gatttatcgg attctgatat tattgatcga ttttgccgga tatgtagaaa tctttgtcgt
+     1261 tatcacagtg gatcctcaaa aaaacaggtt ttgtatcgta taaagtatat acttcgactt
+     1321 tcatgtgcta gaactttggc gcggaaacat aaaagtacag tacgcacttt tatgcgaaga
+     1381 ttaggttcgg gattattaga agaattcttt atggaagaag aacaagttct ttctttaatc
+     1441 ttcctccaaa aaatcccttt tcccttgtac ggatcacata tagaccgtat ttggtatttg
+     1501 gacattatgc atatcaatga tctggtggat aattcatga
+//
+
