@@ -1,0 +1,15 @@
+# STOCKHOLM 1.0
+#=GF SQ 4
+Alpha_secuencia ACTGGAAATCGAAATTACTGGAAATCGAAATTACTGGAAATCGAAATTGAAATTACTGGAAATCGAAATT
+#=GS Alpha_secuencia AC Alpha_secuencia
+#=GS Alpha_secuencia DE <unknown description>
+Beta_secuencia AC-GGAAAGCGAAATTACTGGAAATCGAAATTACTGGAAATCGAAATTGAAATTACTGGAAATCGAAATT
+#=GS Beta_secuencia AC Beta_secuencia
+#=GS Beta_secuencia DE <unknown description>
+Gamma_secuencia ACTG-AAATCGATATTACTGGAAATCGAAATTACTGGAAATCGAAATTGAAATTACTGGAAATCGAAATT
+#=GS Gamma_secuencia AC Gamma_secuencia
+#=GS Gamma_secuencia DE <unknown description>
+Delta_secuencia AC-GGAAATCGATATTACTGGAAATCGAAATTACTGGAAATCGAAATTGAAATTACTGGAAATCGAAATT
+#=GS Delta_secuencia AC Delta_secuencia
+#=GS Delta_secuencia DE <unknown description>
+//
